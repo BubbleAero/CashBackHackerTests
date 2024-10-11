@@ -43,5 +43,3 @@ bin/
 .idea/
 *.kts
 *.bat
-gradle/
-gradlew/
